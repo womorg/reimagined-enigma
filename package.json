@@ -1,6 +1,6 @@
 {
   "name": "@womorg/reimagined-enigma",
-  "version": "10.28.314",
+  "version": "10.28.315",
   "description": "",
   "main": "index.js",
   "author": "womhla6s",
@@ -629,5 +629,5 @@
   "bugs": {
     "url": "https://github.com/womorg/reimagined-enigma/issues"
   },
-  "packageManager": "yarn@4.8.1"
+  "packageManager": "yarn@4.9.0"
 }
