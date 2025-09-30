@@ -1,9 +1,9 @@
 {
   "name": "@womorg/reimagined-enigma",
-  "version": "13.30.366",
+  "version": "13.30.367",
   "description": "",
   "main": "index.js",
-  "author": "womhla6s",
+  "author": "maggaopen",
   "license": "MIT",
   "dependencies": {
     "@womorg/animated": "^1.0.0",
@@ -629,5 +629,5 @@
   "bugs": {
     "url": "https://github.com/womorg/reimagined-enigma/issues"
   },
-  "packageManager": "yarn@4.9.2"
+  "packageManager": "yarn@4.10.3"
 }
