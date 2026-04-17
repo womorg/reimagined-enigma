@@ -1,6 +1,6 @@
 {
   "name": "@womorg/reimagined-enigma",
-  "version": "19.41.543",
+  "version": "19.41.544",
   "description": "",
   "main": "index.js",
   "author": "maggaopen",
@@ -629,5 +629,5 @@
   "bugs": {
     "url": "https://github.com/womorg/reimagined-enigma/issues"
   },
-  "packageManager": "yarn@4.13.0"
+  "packageManager": "yarn@4.14.0"
 }
